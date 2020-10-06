@@ -7,4 +7,4 @@ for i in range(5):
     turtle.fd(200)
     turtle.rt(144)
 
-end_fill()
+turtle.end_fill()
